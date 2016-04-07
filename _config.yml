@@ -1,0 +1,28 @@
+name: Ignore the Gap
+favicon: null
+layout_spectrum: 0.4026367901824415
+typography_spectrum: 0.48872887645848095
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8000743249431252
+  lightness: 0.2899458324536681
+  saturation: 0.6986020877957344
+  rhythmicContrast: 0.714066723594442
+purpose: []
