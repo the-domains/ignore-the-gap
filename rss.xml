@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ignore the Gap]]></title>
+        <description><![CDATA[Ignore the Gap]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 07 Apr 2016 20:36:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Getting sidetracked by the Technology</p>]]></description>
+            <link>undefinedgetting-sidetracked-by-the-technology/index.html</link>
+            <guid isPermaLink="false">445934be-3847-47c0-838b-ca795ef9e1da</guid>
+            <pubDate>Thu, 07 Apr 2016 20:36:36 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
