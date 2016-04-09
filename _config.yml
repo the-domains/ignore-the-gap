@@ -1,28 +1,40 @@
-name: Ignore the Gap
 favicon: null
-layout_spectrum: 0.4026367901824415
-typography_spectrum: 0.48872887645848095
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Ignore the Gap
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.5666105
+  brandStrength: 0.8000743249431252
+  lightness: 1
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.8000743249431252
-  lightness: 0.2899458324536681
-  saturation: 0.6986020877957344
-  rhythmicContrast: 0.714066723594442
-purpose: []
+  rhythmicContrast: 0.2065767
+typography_spectrum: 0.8288364
+layout_spectrum: 0.881113
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
